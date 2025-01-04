@@ -1,0 +1,58 @@
+h1{
+    color: #2cae3f;
+    border: 10px #57ae2c dashed  ;
+    width: 90px ;
+    height: 50px;
+    padding: 50px;
+    margin: auto0;
+    text-align: center;
+
+}
+.pp{ 
+   
+    text-shadow:  5px 5px 5px #4c2cae ,10px 10px 10px #ae2c2c;
+    background: #ae2c2c;
+    font-family:Brush Script MT ;
+    font-size: 20px;
+    font-style: italic;
+    font-variant: small-caps;
+    background-color: aqua;
+    background-image: url(605592.png);
+
+}
+#ppp{
+    color: blueviolet;
+}
+
+h2{
+
+   background: #aeac2c; 
+   width: fit-content;
+}
+
+
+.dd{  
+
+    width: 200px;
+    border-radius: 700px;
+    text-decoration: dashed;
+}
+
+aa{
+    text-shadow: 88px  red;
+
+
+}
+                           
+
+
+
+
+
+
+
+
+
+
+
+
